@@ -3,3 +3,5 @@
 The tracking log records key changes across commits related to specific topics.
 
 ## Tracking Log Format
+
+### Example Tracking Log Entry
